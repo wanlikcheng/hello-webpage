@@ -1,0 +1,22 @@
+h1 {
+    color: #98002E;
+}
+
+#generate {
+    color: white;
+    background-color: #98002E;
+}
+
+.align-right {
+    float: right;
+    padding: 10px;
+}
+
+a:hover {
+    color: #98002E;
+}
+
+p {
+    color: white;
+    background-color: #b29d6c;
+}
