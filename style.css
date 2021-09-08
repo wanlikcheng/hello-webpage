@@ -19,4 +19,5 @@ a:hover {
 p {
     color: white;
     background-color: #b29d6c;
+    padding: 10px;
 }
